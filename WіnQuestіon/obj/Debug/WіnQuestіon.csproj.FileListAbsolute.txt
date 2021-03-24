@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnQuestіon\bin\Debug\WіnQuestіon.exe.config
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnQuestіon\bin\Debug\WіnQuestіon.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnQuestіon\bin\Debug\WіnQuestіon.pdb
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnQuestіon\obj\Debug\WіnQuestіon.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnQuestіon\obj\Debug\WіnQuestіon.Form1.resources
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnQuestіon\obj\Debug\WіnQuestіon.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnQuestіon\obj\Debug\WіnQuestіon.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnQuestіon\obj\Debug\WіnQuestіon.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnQuestіon\obj\Debug\WіnQuestіon.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnQuestіon\obj\Debug\WіnQuestіon.pdb

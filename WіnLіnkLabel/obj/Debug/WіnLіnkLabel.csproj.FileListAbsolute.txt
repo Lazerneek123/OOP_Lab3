@@ -1,0 +1,11 @@
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnLіnkLabel\bin\Debug\WіnLіnkLabel.exe.config
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnLіnkLabel\bin\Debug\WіnLіnkLabel.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnLіnkLabel\bin\Debug\WіnLіnkLabel.pdb
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnLіnkLabel\obj\Debug\WіnLіnkLabel.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnLіnkLabel\obj\Debug\WіnLіnkLabel.Form1.resources
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnLіnkLabel\obj\Debug\WіnLіnkLabel.Form2.resources
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnLіnkLabel\obj\Debug\WіnLіnkLabel.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnLіnkLabel\obj\Debug\WіnLіnkLabel.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnLіnkLabel\obj\Debug\WіnLіnkLabel.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnLіnkLabel\obj\Debug\WіnLіnkLabel.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnLіnkLabel\obj\Debug\WіnLіnkLabel.pdb

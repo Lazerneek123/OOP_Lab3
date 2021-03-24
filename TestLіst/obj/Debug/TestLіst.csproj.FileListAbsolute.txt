@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\TestLіst\bin\Debug\TestLіst.exe.config
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\TestLіst\bin\Debug\TestLіst.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\TestLіst\bin\Debug\TestLіst.pdb
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\TestLіst\obj\Debug\TestLіst.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\TestLіst\obj\Debug\TestLіst.Form1.resources
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\TestLіst\obj\Debug\TestLіst.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\TestLіst\obj\Debug\TestLіst.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\TestLіst\obj\Debug\TestLіst.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\TestLіst\obj\Debug\TestLіst.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\TestLіst\obj\Debug\TestLіst.pdb

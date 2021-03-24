@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\RegіstratіonForm\bin\Debug\RegіstratіonForm.exe.config
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\RegіstratіonForm\bin\Debug\RegіstratіonForm.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\RegіstratіonForm\bin\Debug\RegіstratіonForm.pdb
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\RegіstratіonForm\obj\Debug\RegіstratіonForm.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\RegіstratіonForm\obj\Debug\RegіstratіonForm.Form1.resources
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\RegіstratіonForm\obj\Debug\RegіstratіonForm.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\RegіstratіonForm\obj\Debug\RegіstratіonForm.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\RegіstratіonForm\obj\Debug\RegіstratіonForm.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\RegіstratіonForm\obj\Debug\RegіstratіonForm.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\RegіstratіonForm\obj\Debug\RegіstratіonForm.pdb

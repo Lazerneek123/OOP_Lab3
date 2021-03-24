@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnContaіner\bin\Debug\WіnContaіner.exe.config
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnContaіner\bin\Debug\WіnContaіner.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnContaіner\bin\Debug\WіnContaіner.pdb
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnContaіner\obj\Debug\WіnContaіner.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnContaіner\obj\Debug\WіnContaіner.Form1.resources
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnContaіner\obj\Debug\WіnContaіner.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnContaіner\obj\Debug\WіnContaіner.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnContaіner\obj\Debug\WіnContaіner.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnContaіner\obj\Debug\WіnContaіner.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб3\Лаб_3\WіnContaіner\obj\Debug\WіnContaіner.pdb
